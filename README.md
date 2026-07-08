@@ -23,7 +23,7 @@ This analytics pipeline ingests over 130 years of global absolute sea level metr
 
 Below is the generated statistical chart mapping the historical observations alongside the dual-horizon linear forecasting trajectories up to 2050:
 
-![Sea Level Forecast Trends](assets/sea_level_plot.png)
+![Sea Level Forecast Trends](assets/sea_level_plot(2).png)
 
 *The divergence between the dashed red line (Historical Trend) and the solid green line (Modern Accelerated Trend) visually quantifies the rapid acceleration shift occurring at the turn of the century.*
 
@@ -54,6 +54,6 @@ pip install -r requirements.txt
 The core utility of this project lies in its comparative framework. By separating the historical timeline into two distinct horizons, the pipeline uncovers a critical discrepancy that standard aggregate models completely miss:
 
 ### The Analytical Takeaway
-* **The Baseline Flaw:** Models utilizing the entire century-scale dataset calculate a predictable, moderate trajectory. 
-* **The Accelerated Reality:** Restricting the modeling matrix strictly to data points from the year 2000 onward reveals an aggressively steeper trajectory. 
-* **The Operational Impact:** **The rate of sea level rise in the modern era is more than double the long-term historical baseline.** Engineering firms and municipalities that design coastal defenses using 100-year averages are actively under-engineering infrastructure and severely underestimating future risk 
+* The Baseline Flaw: Models utilizing the entire century-scale dataset calculate a predictable, moderate trajectory. 
+* The Accelerated Reality: Restricting the modeling matrix strictly to data points from the year 2000 onward reveals an aggressively steeper trajectory. 
+* The Operational Impact: The rate of sea level rise in the modern era is more than double the long-term historical baseline. Engineering firms and municipalities that design coastal defenses using 100-year averages are actively under-engineering infrastructure and severely underestimating future risk 
