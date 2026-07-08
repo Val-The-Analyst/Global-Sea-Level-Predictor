@@ -23,7 +23,7 @@ This analytics pipeline ingests over 130 years of global absolute sea level metr
 
 Below is the generated statistical chart mapping the historical observations alongside the dual-horizon linear forecasting trajectories up to 2050:
 
-![Sea Level Forecast Trends](assets/sea_level_plot(2).png)
+![Sea Level Forecast Trends](assets/sea_level_plot.png)
 
 *The divergence between the dashed red line (Historical Trend) and the solid green line (Modern Accelerated Trend) visually quantifies the rapid acceleration shift occurring at the turn of the century.*
 
